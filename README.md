@@ -4,9 +4,9 @@
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Dominik Josipović | djosipovi21@foi.hr | 0016152387 | djosipovi21
-Sebastijan Vinko | svinko21@foi.hr | 0016154724 | svinko21
-Karlo Mikec | kmikec20@foi.hr | 0016151582 | kmikec20
+Dominik Josipović | djosipovi21@foi.hr | ########## | djosipovi21
+Sebastijan Vinko | svinko21@foi.hr | ########## | svinko21
+Karlo Mikec | kmikec20@foi.hr | ########## | kmikec20
 
 ## Opis domene
 Projekt pokriva domenu upravljanja administracijom aplikacije o budućim događajima (koncerti, seminari, radionice...). Aplikacija radi tako da organizator događaja objavi događaj u aplikaciji na mobitelu tako da popuni obrazac u koje upisuje osnovne informacije o događaju (naziv, kratak opis, mjesto, vrijeme, broj mogućih sudionika). Korisnici mogu vidjeti događaje koje je kreirao organizator te se mogu pretplatiti na događaj i tako zauzeti svoje mjesto na događaju.
